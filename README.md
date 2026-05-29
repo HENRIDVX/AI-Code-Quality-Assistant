@@ -80,14 +80,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Upload a Python project or provide a GitHub repository URL, then launch the processing pipeline through the web interface.
-
----
-
-## Author
-
-Henri Davroux
-
+Upload a Python project or provide a GitHub repository URL, then launch the processing pipeline through the web interface
 Financial Engineering Student – ESILV
 
 Project developed in collaboration with Safran.
